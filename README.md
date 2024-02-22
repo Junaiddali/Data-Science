@@ -15,5 +15,6 @@ Learn how to clean and preprocess your datasets using pandas. Handle missing val
 
 Discover the power of data visualization with pandas. Create informative charts, graphs, and plots to visually represent your data, aiding in a better understanding of patterns and trends.
 
+### Exploratory Data Analysis (EDA) using Pandas Profiling
 
-
+Exploratory Data Analysis (EDA) is a crucial step in understanding and preparing your dataset for further analysis. The pandas_profiling library simplifies this process by automating the generation of detailed EDA reports.
