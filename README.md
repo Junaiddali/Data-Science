@@ -18,3 +18,7 @@ Discover the power of data visualization with pandas. Create informative charts,
 ### Exploratory Data Analysis (EDA) using Pandas Profiling
 
 Exploratory Data Analysis (EDA) is a crucial step in understanding and preparing your dataset for further analysis. The pandas_profiling library simplifies this process by automating the generation of detailed EDA reports.
+
+### K-means Clustering
+
+K-means clustering is a popular unsupervised machine learning algorithm used for grouping data points into clusters based on their similarity.
