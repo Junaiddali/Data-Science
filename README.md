@@ -22,3 +22,4 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding and preparing
 ### K-means Clustering
 
 K-means clustering is a popular unsupervised machine learning algorithm used for grouping data points into clusters based on their similarity.
+There are example of customer segmentation and image segmentation in this repository.
