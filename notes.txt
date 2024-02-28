@@ -12,6 +12,9 @@ Definition: Scikit-Learn, or sklearn, is a machine learning library for Python t
 
 Scikit-Learn (sklearn) includes the KMeans algorithm for clustering, you can find the KMeans implementation in the sklearn.cluster module.
 
+Data Mining:
+Data mining is the process of discovering patterns, trends, and useful information from large sets of data, often using computer algorithms, to make informed business or research decisions.
+
 ***************steps for kmean with elbow method
 Elbow Method:
 The Elbow Method is a technique for finding the optimal number of clusters in a dataset. It involves running the KMeans algorithm on the dataset for a range of values of k (number of clusters) and then plotting the sum of squared distances from each point to its assigned center (inertia) against k. The "elbow" in the plot represents a point where adding more clusters doesn't significantly reduce the inertia, suggesting the optimal number of clusters.
